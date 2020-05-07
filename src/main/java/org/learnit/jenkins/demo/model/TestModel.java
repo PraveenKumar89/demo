@@ -8,6 +8,6 @@ public class TestModel {
     private int id;
     private String name;
     private String email;
-    private String address;
+    private TestAddress address;
     private String designation;
 }
